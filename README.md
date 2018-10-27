@@ -1,0 +1,2 @@
+# rsschool-codejam
+code-jam
